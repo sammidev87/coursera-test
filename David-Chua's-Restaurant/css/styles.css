@@ -143,4 +143,15 @@ body {
   .navbar-brand p img {
     height: 20px;
   }
+
+  /* Collapsed Nav Menu Text */
+  #collapsable-nav a {
+    font-size: 1.2em;
+  }
+
+  /* Collapsed Nav Menu Glyph */
+  #collapsable-nav a span {
+    font-size: 1em;
+    margin-right: 5px;
+  }
 }
