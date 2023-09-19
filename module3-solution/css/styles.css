@@ -65,3 +65,14 @@ section {
   color: #5bcefa;
   text-shadow: 1px 1px 1px #f5a9b8;
 }
+
+#menu-item-title {
+  color: #fff;
+  font-size: 24px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+#menu-item-title + p {
+  color: #fff;
+}
